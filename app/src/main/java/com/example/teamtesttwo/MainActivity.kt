@@ -11,9 +11,5 @@ class MainActivity : AppCompatActivity() {
         println("Yehia was here")
 
         println("Test tanii")
-
-        println("Master Push")
-
-        println("Helloooo from the other side ")
     }
 }
