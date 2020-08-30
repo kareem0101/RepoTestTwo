@@ -15,5 +15,6 @@ class MainActivity : AppCompatActivity() {
         println("Master Push")
 
         println("Helloooo from the other side ")
+        println("Malak says hi")
     }
 }
