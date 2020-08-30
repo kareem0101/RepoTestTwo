@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         println("Test tanii")
 
         println("Malak says hi")
+
+        println("Hi Malak")
     }
 }
