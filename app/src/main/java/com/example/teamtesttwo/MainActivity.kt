@@ -16,5 +16,13 @@ class MainActivity : AppCompatActivity() {
 
         println("Helloooo from the other side ")
         println("Malak says hi")
+
+        println("HII WELCOME TO MY BRANCH")
+        println("Welcome again")
+
+        println("Welcome From Yehia")
+        println("Welcome From Kareem")
+
+        println("I added a class")
     }
 }

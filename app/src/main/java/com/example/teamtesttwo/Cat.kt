@@ -1,4 +1,3 @@
 package com.example.teamtesttwo
 
-class car {
-}
+data class Cat(val color:String)
